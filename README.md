@@ -1,4 +1,4 @@
 # Shopify Themes
 Custom Shopify themes. Downloadable zip files
 
-## Simply Dark
+## Simply Dark - one page store
